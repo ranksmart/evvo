@@ -1,0 +1,11 @@
+[
+    {
+        "CIS MS Azure foundations Benchmark Audit Item": "Acces",
+        "Description of Audit Item": "s Control Policy - Clause A.9.1.1",
+        "Mapped ISO 27001:2022 Clauses": "ISO/IEC 27001:2013 - Clause 5.1.1",
+        "Initial Decision": null,
+        "Initial Rationale": "The audit item addresses the ISO 27002 clause by requiring the documentation and communication of user responsibilities related to the use of assets and acceptance of information security responsibilities. This aligns with the clause's requirement for assigning and documenting user responsibilities.\n\n6. Map the ISO 27001 clause to the audit item:\nISO 27001 clause 5.1.1 is about \"Information security policy\" and it states: \"The organization shall establish, implement, maintain and continually improve an information security management system (ISMS), including the definition and documentation of the information security policy and other relevant documentation\". The audit item A.9.1.1 should be mapped to the ISO 27001 clause 5.1.1 as the documentation of user responsibilities is a part of the information security policy and other relevant documentation.",
+        "Checker Decision": "Yes",
+        "Checker Rationale": "The audit item A.9.1.1, which requires the documentation and communication of user responsibilities related to the use of information systems and acceptance of information security responsibilities, directly addresses the requirements of ISO 27002 clause A.9.1.1. This audit item is a part of the organization's information security policy and other relevant documentation as stated in ISO 27001 clause 5.1.1. Therefore, the audit item A.9.1.1 should be mapped to the ISO 27001 clause 5.1.1."
+    }
+]
